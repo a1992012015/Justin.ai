@@ -2,6 +2,7 @@
   "name": "ai-study-2023",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/a1992012015/Justin.ai",
   "dependencies": {
     "@craco/craco": "^7.1.0",
     "@testing-library/jest-dom": "^5.14.1",
@@ -25,6 +26,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "deploy": "rm -rf node_modules/.cache/gh-pages & gh-pages -d build",
+    "predeploy": "npm run build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
