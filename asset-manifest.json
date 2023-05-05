@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/a1992012015/Justin.ai/static/css/main.e2d90b42.css",
+    "main.js": "/a1992012015/Justin.ai/static/js/main.71028690.js",
+    "static/js/787.7daf4c2d.chunk.js": "/a1992012015/Justin.ai/static/js/787.7daf4c2d.chunk.js",
+    "static/media/logo.svg": "/a1992012015/Justin.ai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/a1992012015/Justin.ai/index.html",
+    "main.e2d90b42.css.map": "/a1992012015/Justin.ai/static/css/main.e2d90b42.css.map",
+    "main.71028690.js.map": "/a1992012015/Justin.ai/static/js/main.71028690.js.map",
+    "787.7daf4c2d.chunk.js.map": "/a1992012015/Justin.ai/static/js/787.7daf4c2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d90b42.css",
+    "static/js/main.71028690.js"
+  ]
+}
